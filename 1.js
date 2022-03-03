@@ -3,10 +3,12 @@
  */
 
 
-let input = 5
+let input = 10
 // koding di sini
 
-
+for (let i = 1; i <= input; i++) {
+  console.log('*')
+}
 
 /**
 
